@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 ## Dynamic Programming
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Design
 |  |
 | ------- |
@@ -90,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
