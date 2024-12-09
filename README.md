@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## String Matching
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Ordered Set
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Queue
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -139,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
+## Counting
+|  |
+| ------- |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 <!---LeetCode Topics End-->
