@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+## Graph
+|  |
+| ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
