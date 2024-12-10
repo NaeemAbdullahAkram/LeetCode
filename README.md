@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 ## Bit Manipulation
 |  |
