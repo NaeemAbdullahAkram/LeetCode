@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 ## Bit Manipulation
 |  |
