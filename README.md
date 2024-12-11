@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2690-house-robber-iv](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2690-house-robber-iv) |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Binary Tree
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
+## Matrix
+|  |
+| ------- |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 <!---LeetCode Topics End-->
