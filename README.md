@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Queue
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Counting
 |  |
 | ------- |
