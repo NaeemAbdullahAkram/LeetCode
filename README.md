@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2619-categorize-box-according-to-criteria](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2630-alternating-digit-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
