@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2690-house-robber-iv](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2690-house-robber-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Design
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Ordered Set
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
