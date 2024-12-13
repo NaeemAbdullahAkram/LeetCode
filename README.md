@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Binary Indexed Tree
