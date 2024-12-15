@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
