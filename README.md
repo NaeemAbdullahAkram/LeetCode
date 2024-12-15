@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Sorting
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 ## Enumeration
 |  |
@@ -263,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
