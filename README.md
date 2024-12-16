@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3533-snake-in-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2671-shortest-cycle-in-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Number Theory
 |  |
 | ------- |
