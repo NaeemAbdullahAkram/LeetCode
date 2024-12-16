@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3533-snake-in-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
+| [3533-snake-in-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3533-snake-in-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
