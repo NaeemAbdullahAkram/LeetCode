@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Backtracking
+|  |
+| ------- |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 <!---LeetCode Topics End-->
