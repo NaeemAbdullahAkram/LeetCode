@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2386-min-max-game](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2386-min-max-game) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2386-min-max-game](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2386-min-max-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2587-design-memory-allocator](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2639-separate-the-digits-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
