@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2569-number-of-beautiful-partitions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
