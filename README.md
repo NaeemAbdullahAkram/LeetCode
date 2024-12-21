@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2690-house-robber-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -336,11 +338,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Combinatorics
 |  |
 | ------- |
