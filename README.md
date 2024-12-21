@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2690-house-robber-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Counting
