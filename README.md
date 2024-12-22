@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2670-make-k-subarray-sums-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
