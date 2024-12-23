@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2386-min-max-game) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2587-design-memory-allocator](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2587-design-memory-allocator) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2587-design-memory-allocator](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
