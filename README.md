@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2406-decode-the-message](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2406-decode-the-message](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
