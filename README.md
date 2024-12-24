@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
