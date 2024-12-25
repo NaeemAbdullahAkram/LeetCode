@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
