@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0458-poor-pigs) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0441-arranging-coins) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
