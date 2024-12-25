@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0392-is-subsequence) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0458-poor-pigs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
