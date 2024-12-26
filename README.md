@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Segment Tree
@@ -461,5 +467,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
