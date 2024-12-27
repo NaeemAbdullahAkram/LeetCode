@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0769-largest-plus-sign](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-largest-plus-sign](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0769-largest-plus-sign) |
+| [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
