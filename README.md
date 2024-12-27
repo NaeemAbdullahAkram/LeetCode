@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -490,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0274-h-index) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
