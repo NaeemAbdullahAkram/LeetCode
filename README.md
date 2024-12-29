@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2222-abbreviating-the-product-of-a-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2222-abbreviating-the-product-of-a-range) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Simulation
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0458-poor-pigs) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -449,11 +455,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Segment Tree
@@ -470,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -524,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
