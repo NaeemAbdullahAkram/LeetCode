@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2386-min-max-game](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2386-min-max-game) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2406-decode-the-message](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2868-continuous-subarrays) |
