@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2562-count-ways-to-build-good-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2569-number-of-beautiful-partitions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
