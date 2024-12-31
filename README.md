@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0458-poor-pigs) |
 | [0477-total-hamming-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0866-rectangle-overlap](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
