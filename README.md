@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2406-decode-the-message](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Graph
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
