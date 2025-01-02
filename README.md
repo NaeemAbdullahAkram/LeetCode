@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2690-house-robber-iv](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2690-house-robber-iv) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
