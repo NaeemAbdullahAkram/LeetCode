@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Backtracking
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Trie
 |  |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0860-design-circular-queue) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -574,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Recursion
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
