@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2569-number-of-beautiful-partitions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2476-check-distances-between-same-letters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2476-check-distances-between-same-letters) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2587-design-memory-allocator](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Graph
 |  |
