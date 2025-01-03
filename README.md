@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Prefix Sum
