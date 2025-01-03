@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
