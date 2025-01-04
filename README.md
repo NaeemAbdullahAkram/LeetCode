@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
