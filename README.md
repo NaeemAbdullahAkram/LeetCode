@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 | [1539-diagonal-traverse-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
+| [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1025-minimum-cost-for-tickets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -625,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
