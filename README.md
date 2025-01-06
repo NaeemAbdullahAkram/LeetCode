@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
+| [1813-maximum-erasure-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1830-count-good-meals) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
+| [1813-maximum-erasure-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1830-count-good-meals) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1813-maximum-erasure-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
