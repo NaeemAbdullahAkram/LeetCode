@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1025-minimum-cost-for-tickets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1539-diagonal-traverse-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1539-diagonal-traverse-ii) |
