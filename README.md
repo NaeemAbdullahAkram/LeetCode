@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
+| [1156-occurrences-after-bigram](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1524-string-matching-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
