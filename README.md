@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
+| [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1524-string-matching-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1813-maximum-erasure-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
