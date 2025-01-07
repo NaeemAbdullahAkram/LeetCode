@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-largest-plus-sign](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1025-minimum-cost-for-tickets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
