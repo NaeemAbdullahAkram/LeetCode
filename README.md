@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2877-shortest-string-that-contains-three-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3533-snake-in-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Radix Sort
 |  |
 | ------- |
@@ -650,4 +654,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
