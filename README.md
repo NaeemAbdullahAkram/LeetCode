@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-champion-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3188-find-champion-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
