@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2051-longest-common-subpath](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2051-longest-common-subpath) |
 | [2104-operations-on-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2104-operations-on-tree) |
 | [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1772-create-sorted-array-through-instructions](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2051-longest-common-subpath](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2051-longest-common-subpath) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -694,9 +696,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [2051-longest-common-subpath](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2051-longest-common-subpath) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [2051-longest-common-subpath](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2051-longest-common-subpath) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Suffix Array
+|  |
+| ------- |
+| [2051-longest-common-subpath](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2051-longest-common-subpath) |
 <!---LeetCode Topics End-->
