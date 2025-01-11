@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [1156-occurrences-after-bigram](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
+| [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1813-maximum-erasure-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1830-count-good-meals) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
