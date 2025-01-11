@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1503-reducing-dishes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1503-reducing-dishes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1522-stone-game-iii) |
 | [1680-count-all-possible-routes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1680-count-all-possible-routes) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1503-reducing-dishes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1539-diagonal-traverse-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
