@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2193-count-fertile-pyramids-in-a-land](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2187-vowels-of-all-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2193-count-fertile-pyramids-in-a-land](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [2193-count-fertile-pyramids-in-a-land](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
