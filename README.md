@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0952-word-subsets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0952-word-subsets) |
 | [1156-occurrences-after-bigram](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0946-smallest-range-ii) |
+| [0952-word-subsets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1025-minimum-cost-for-tickets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0952-word-subsets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1500-count-largest-group) |
