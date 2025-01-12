@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
 | [2187-vowels-of-all-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2104-operations-on-tree) |
 | [2122-count-special-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1502-construct-k-palindrome-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
