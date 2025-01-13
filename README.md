@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3356-shortest-uncommon-substring-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Radix Sort
 |  |
 | ------- |
