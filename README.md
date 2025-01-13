@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3164-last-visited-integers](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3164-last-visited-integers) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3188-find-champion-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3188-find-champion-i) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2877-shortest-string-that-contains-three-strings) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
