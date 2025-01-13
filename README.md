@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3427-special-array-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2904-sorting-three-groups](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2904-sorting-three-groups) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [3188-find-champion-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3188-find-champion-i) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
