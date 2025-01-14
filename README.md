@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Matrix
 |  |
