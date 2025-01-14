@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2422-query-kth-smallest-trimmed-number](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2670-make-k-subarray-sums-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2682-count-increasing-quadruplets](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
