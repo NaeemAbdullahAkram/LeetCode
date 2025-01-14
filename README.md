@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2630-alternating-digit-sum](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2670-make-k-subarray-sums-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2679-count-distinct-numbers-on-board](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2165-plates-between-candles) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2673-maximize-win-from-two-segments](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2670-make-k-subarray-sums-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/3244-minimize-length-of-array-using-operations) |
 ## Bit Manipulation
