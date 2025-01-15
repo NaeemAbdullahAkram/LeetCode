@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2509-minimize-xor](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2509-minimize-xor) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2427-first-letter-to-appear-twice](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2509-minimize-xor](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2509-minimize-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
