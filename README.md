@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0050-powx-n) |
 | [0441-arranging-coins](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0458-poor-pigs) |
 | [0477-total-hamming-distance](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/0050-powx-n) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NaeemAbdullahAkram/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Game Theory
 |  |
